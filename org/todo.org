@@ -1,0 +1,9 @@
+* Tasks
+* TODO Make basic ping bot
+* TODO Start dungeon planning for REPL first
+* TODO Make dungeon "map" logic
+* TODO Make basic movements on map
+* TODO Make classes with stats etc
+* TODO Make users+class creation
+* TODO Integrate with discord commands (pm vs in channel?)
+* TODO Make more detailed todos?
